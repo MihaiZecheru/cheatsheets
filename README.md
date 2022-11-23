@@ -24,7 +24,7 @@ cheatsheets, all containing specific keyword(s), prefix those keyword(s) with a 
 **Examples:**
 
         c sum of list --python
-        c add to end of list --javascript
+        c remove first item from array --javascript
         c use curl --shell
         c ls --cmd
 
