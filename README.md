@@ -1,3 +1,9 @@
+Cheatsheets CLI
+----------------------------
+
+Note: Adding this program to PATH is highly recommended.
+Download the compiled `.exe` file [here](https://github.com/MihaiZecheru/cheatsheets/edit/main/README.md)\
+
 This program was made with the intent of providing quick answers to common programming problems in order
 to save you time that would have instead been spent on tedious googling. This cheatsheet CLI will return
 "cheatsheets" as the results to its queries, which are created through the given command-line arguments.
