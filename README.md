@@ -16,11 +16,13 @@ To exclude certain words from the results, prefix those words with a minus sign 
 cheatsheets, all containing specific keyword(s), prefix those keyword(s) with a tilda (~).
 
 **Usages:**
+
         c <command> [--lang]
         c <--lang> :learn
         c :random
 
 **Examples:**
+
         c sum of list --python
         c add to end of list --javascript
         c use curl --shell
@@ -29,11 +31,13 @@ cheatsheets, all containing specific keyword(s), prefix those keyword(s) with a 
 `To exclude certain words from results, prefix the word with a minus sign (-)`
 
 **Examples:**
+
         c --python multiply matrices -numpy
         c hello world --cpp -printf
 
 `Note: to find results containing certain keywords, prefix the keywords with a tilda (~)`
 
 **Examples:**
+
         c --js ~array
         c ~inheritance ~classes --python
