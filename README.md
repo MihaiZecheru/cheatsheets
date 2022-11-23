@@ -16,9 +16,9 @@ To exclude certain words from the results, prefix those words with a minus sign 
 cheatsheets, all containing specific keyword(s), prefix those keyword(s) with a tilda (~).
 
 **Usages:**
-        c <command> [--lang]
-        c <--lang> :learn
-        c :random
+        - c <command> [--lang]
+        - c <--lang> :learn
+        - c :random
 
 **Examples:**
         c sum of list --python
