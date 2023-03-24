@@ -22,16 +22,6 @@ bool startswith(const char* pre, const char* str)
     return strncmp(pre, str, strlen(pre)) == 0;
 }
 
-/* my personal implementation of strlen before i realized strlen was a function included in string.h :(
-int length(const char* str) 
-{
-	for (int len = 0; ; len++)
-	{
-		if (!str[len]) return len;
-	}
-}
-*/
-
 bool ishelp(const char* str)
 {
 	return !strcmp(str, "help")   ||
